@@ -5,14 +5,7 @@
 - 📫 How to reach me? I mean how do we reach anyone in this atomized society
 ---
 #### Projects
-<details>
-  <summary>Click to expand!</summary>
-  
-```python
-def func():
-    return 'hello, world!'
-```
-</details>
+
   ### [Javascript Keyboard](https://cerealenjoyer.github.io/precourse-projects/week-1/emoPiano/index.html)
 <details>  <summary> Description</summary>
   
