@@ -18,18 +18,20 @@ l k ; j f l d s j a f
   
 </details>
 </details>
+
 ### [CSS and Javascript Clock](https://cerealenjoyer.github.io/precourse-projects/week-1/horrorClock/index.html) 
 <details>
   <summary> Description </summary>
 I made a simple clock in JS and CSS, and decided to try and link it thematically to the previous project: inspired by my wasted youth playing point-'n-click mystery games I made a *Silent Hill* inspired puzzle clock - watching it until the second hand hits '0' causes it to click and shift, unlocking another door.
   </details>
+  
 ### [Editing CSS Variables with Javascript](https://cerealenjoyer.github.io/precourse-projects/week-3/css-variables/index.html)
 <details>
   <summary> Description </summary>
 I was really excited to learn about CSS Variables. DOM Manipulation was my favourite part of learning how to build a website, I love the crunchiness of it and I think it's really cool that you can make your JavaScript interact with your HTML, it suddenly makes a website feel like 'serious business'. Adding CSS into the mix feels like the coup de grace.
 Inspired by films like Jacob's Ladder, as well as the found-footage photography artwork of Trevor Henderson, I tried to use CSS Variables to make a photo of an everyday tableau 'shift' into a ruined, uncomfortable environment: You can adjust the sliders on the left to add layers of decay onto the photo, and for subtlety you can blur them out with the sliders on the right, to lessen the effect.
-
   </details>
+  
   ### [Agency Website](https://fac22.github.io/DaSha-Agency/)
 <details>
   <summary> Description </summary>
@@ -43,6 +45,7 @@ We had an idea that was going to be even more intrusive: A timer would start whe
   You might have seen a fair few of these already, because this was based on a workshop that we went through in lessons: Based on the [Who's that pokemon](https://i.imgur.com/av0BXKO.png) stinger that played in ad-breaks of the cockfighting-fantasy children's show Pokemon, I made an extremely simple API lookup: Type a pokemon name (or number) into the search input, get a Pokemon out. 
 My favourite part of this one was learning to use (and make) SVGs. When I started I had no idea that what I thought was an extremely simple goal (to make some text curve out *slightly* would involve opening GIMP, drawing a line for the text to follow, converting it into a path, exporting that path and then instructing the text to follow that (fill-less, borderless) path. Any time I see path text on a website now, I silently thank the frontend developer for their service.
   </details>
+  
 ### [Movie API](https://fac22.github.io/SashaSairaFilmLookup/)
 <details>
   <summary> Description </summary>
