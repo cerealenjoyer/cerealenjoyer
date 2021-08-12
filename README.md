@@ -11,7 +11,7 @@
    </summary>
 Using `lessons` from the Javascript30 lesson 'Javascript Drum Kit', I made this (extremely) simple piano. Taking inspiration from films like Grand Piano I made a simulation of a 'musical combination lock', a locked box hidden inside a piano that only unlocks on playing a certain melody - in this case the opening riff from a 'My Chemical Romance' song (hence the name 'emoPiano').
 Try listening 
-  ```[to the start of Black Parade](https://www.youtube.com/watch?v=v_uncMEJkBc)```
+  ```md[to the start of Black Parade](https://www.youtube.com/watch?v=v_uncMEJkBc)```
   and trying to replicate the sequence, or if you're impatient, you can cheat.
 <details>
   <summary>Solution</summary>
