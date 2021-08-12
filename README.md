@@ -6,8 +6,7 @@
 ---
 #### Projects
 <details>  <summary>
-  
-### [Javascript Keyboard](https://cerealenjoyer.github.io/precourse-projects/week-1/emoPiano/index.html)
+  ### [Javascript Keyboard](https://cerealenjoyer.github.io/precourse-projects/week-1/emoPiano/index.html)
 
    </summary>
 Using lessons from the Javascript30 lesson 'Javascript Drum Kit', I made this (extremely) simple piano. Taking inspiration from films like Grand Piano I made a simulation of a 'musical combination lock', a locked box hidden inside a piano that only unlocks on playing a certain melody - in this case the opening riff from a 'My Chemical Romance' song (hence the name 'emoPiano').
