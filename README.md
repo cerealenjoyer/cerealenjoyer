@@ -15,12 +15,12 @@ Try listening
   [to the start of Black Parade](https://www.youtube.com/watch?v=v_uncMEJkBc)
   and trying to replicate the sequence, or if you're impatient, you can cheat.
   ```
+  </details>
 <details>
   <summary>Solution</summary>
   
 l k ; j f l d s j a f
   
-</details>
 </details>
 
 ### [CSS and Javascript Clock](https://cerealenjoyer.github.io/precourse-projects/week-1/horrorClock/index.html) 
