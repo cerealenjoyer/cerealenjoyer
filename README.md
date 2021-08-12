@@ -1,7 +1,7 @@
-- 👋 Yo, I’m @cerealenjoyer
-- 👀 I’m interested in javascript I guess
-- 🌱 I’m currently learning oh I was meant to put that there ok uh i like Giallo horror
-- 💞️ I’m looking to collaborate on wait go back I've messed this up
+- 👋 Hi, I'm Sasha
+- 👀 Interested in DOM Manipulation, API weirdness, unreplicable errors and dead parts of the internet
+- 🌱 Learning Full Stack at Founders and Coders, with the goal of ending up in Web Development
+- 💞️ Want to collaborate? I'm interested in making things that look unsettling, arresting or uncomfortable
 - 📫 How to reach me? I mean how do we reach anyone in this atomized society
 
 <!---
