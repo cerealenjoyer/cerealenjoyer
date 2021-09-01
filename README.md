@@ -10,8 +10,8 @@
   
 This was my application for Founders and Coders FAC22 cohort, I tried to use everything I'd learned on freecodecamp and elsewhere to produce an emulated Windows 98 desktop environment.
   
-  </details>
-<details>
+ </details>
+ 
 
   ### [Javascript Keyboard](https://cerealenjoyer.github.io/precourse-projects/week-1/emoPiano/index.html)
 <details>  <summary> Project summary</summary>
