@@ -2,7 +2,7 @@
 - 👀 Interested in DOM Manipulation, API weirdness, unreplicable errors and dead parts of the internet
 - 🌱 Founders and Coders alumnus, currently working as a Freelance Fullstack Web Developer
 - 💞️ Want to collaborate? I'm interested in making things that look unsettling, arresting or uncomfortable
-- 📫 How to reach me? I mean how do we reach anyone in this atomized society
+- 📫 For professional enquiries please email me at sashalyons@protonmail.com
 ---
 #### Projects
   ### [Application page](https://cerealenjoyer.github.io/application/)
